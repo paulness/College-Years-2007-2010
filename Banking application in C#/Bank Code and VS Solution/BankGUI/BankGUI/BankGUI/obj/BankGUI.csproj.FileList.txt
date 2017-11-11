@@ -1,0 +1,12 @@
+obj\Debug\BankGUI.exe
+obj\Debug\BankGUI.pdb
+bin\Debug\BankGUI.exe
+bin\Debug\BankGUI.pdb
+bin\Debug\AccountBankManagement.dll
+bin\Debug\AccountBankManagement.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BankGUI.AccountControl.resources
+obj\Debug\BankGUI.BankControl.resources
+obj\Debug\BankGUI.frmLoadCreateBank.resources
+obj\Debug\BankGUI.Properties.Resources.resources
+obj\Debug\BankGUI.csproj.GenerateResource.Cache

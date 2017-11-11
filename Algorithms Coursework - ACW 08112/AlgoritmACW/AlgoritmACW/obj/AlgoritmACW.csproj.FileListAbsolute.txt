@@ -1,0 +1,12 @@
+G:\Algorithms ACW\AlgoritmACW\AlgoritmACW\obj\Debug\ResolveAssemblyReference.cache
+G:\Algorithms ACW\AlgoritmACW\AlgoritmACW\bin\Debug\AlgoritmACW.exe
+G:\Algorithms ACW\AlgoritmACW\AlgoritmACW\bin\Debug\AlgoritmACW.pdb
+G:\Algorithms ACW\AlgoritmACW\AlgoritmACW\obj\Debug\AlgoritmACW.exe
+G:\Algorithms ACW\AlgoritmACW\AlgoritmACW\obj\Debug\AlgoritmACW.pdb
+D:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\obj\Debug\AlgoritmACW.exe
+D:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\obj\Debug\AlgoritmACW.pdb
+D:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\bin\Debug\AlgoritmACW.exe
+D:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\bin\Debug\AlgoritmACW.pdb
+D:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\obj\Debug\ResolveAssemblyReference.cache
+E:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\obj\Debug\AlgoritmACW.exe
+E:\University\Modules\08112 - Software Engineering & HCI\Labs & CW\Algorithms CW\AlgoritmACW\AlgoritmACW\obj\Debug\AlgoritmACW.pdb

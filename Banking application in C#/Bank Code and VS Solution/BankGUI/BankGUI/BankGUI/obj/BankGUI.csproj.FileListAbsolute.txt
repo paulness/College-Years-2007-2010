@@ -1,0 +1,107 @@
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+C:\Users\Raw15\Desktop\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+D:\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+D:\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+D:\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+D:\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+D:\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+E:\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+E:\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+E:\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+E:\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+D:\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+E:\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+E:\BankGUI\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+E:\BankGUI\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+E:\BankGUI\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+E:\BankGUI\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+K:\BankGUI\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+K:\BankGUI\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+K:\BankGUI\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+K:\BankGUI\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+K:\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.exe
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.pdb
+K:\BankGUI\BankGUI\bin\Debug\BankGUI.exe
+K:\BankGUI\BankGUI\bin\Debug\BankGUI.pdb
+K:\BankGUI\BankGUI\bin\Debug\AccountBankManagement.dll
+K:\BankGUI\BankGUI\bin\Debug\AccountBankManagement.pdb
+K:\BankGUI\BankGUI\obj\Debug\ResolveAssemblyReference.cache
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.AccountControl.resources
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.BankControl.resources
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.frmLoadCreateBank.resources
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.Properties.Resources.resources
+K:\BankGUI\BankGUI\obj\Debug\BankGUI.csproj.GenerateResource.Cache
+E:\BankGUI\BankGUI\BankGUI\bin\Release\BankGUI.exe
+E:\BankGUI\BankGUI\BankGUI\bin\Release\BankGUI.pdb
+E:\BankGUI\BankGUI\BankGUI\bin\Release\AccountBankManagement.dll
+E:\BankGUI\BankGUI\BankGUI\bin\Release\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\BankGUI\obj\Release\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.AccountControl.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.BankControl.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.frmLoadCreateBank.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.Properties.Resources.resources
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.csproj.GenerateResource.Cache
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.exe
+E:\BankGUI\BankGUI\BankGUI\obj\Release\BankGUI.pdb

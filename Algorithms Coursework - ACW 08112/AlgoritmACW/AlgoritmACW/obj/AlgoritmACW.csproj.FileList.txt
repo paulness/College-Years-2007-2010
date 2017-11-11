@@ -1,0 +1,5 @@
+obj\Debug\AlgoritmACW.exe
+obj\Debug\AlgoritmACW.pdb
+bin\Debug\AlgoritmACW.exe
+bin\Debug\AlgoritmACW.pdb
+obj\Debug\ResolveAssemblyReference.cache

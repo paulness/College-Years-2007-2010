@@ -1,0 +1,35 @@
+K:\BankGUI\BankGUI\UnitTesting\bin\Debug\UnitTesting.exe
+K:\BankGUI\BankGUI\UnitTesting\bin\Debug\UnitTesting.pdb
+K:\BankGUI\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.dll
+K:\BankGUI\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.pdb
+K:\BankGUI\BankGUI\UnitTesting\obj\Debug\ResolveAssemblyReference.cache
+K:\BankGUI\BankGUI\UnitTesting\obj\Debug\UnitTesting.exe
+K:\BankGUI\BankGUI\UnitTesting\obj\Debug\UnitTesting.pdb
+E:\BankGUI\BankGUI\UnitTesting\bin\Debug\UnitTesting.exe
+E:\BankGUI\BankGUI\UnitTesting\bin\Debug\UnitTesting.pdb
+E:\BankGUI\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.dll
+E:\BankGUI\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\UnitTesting\obj\Debug\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\UnitTesting\obj\Debug\UnitTesting.exe
+E:\BankGUI\BankGUI\UnitTesting\obj\Debug\UnitTesting.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\bin\Debug\UnitTesting.exe
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\bin\Debug\UnitTesting.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\obj\Debug\ResolveAssemblyReference.cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\obj\Debug\UnitTesting.exe
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\UnitTesting\obj\Debug\UnitTesting.pdb
+K:\BankGUI\UnitTesting\bin\Debug\UnitTesting.exe
+K:\BankGUI\UnitTesting\bin\Debug\UnitTesting.pdb
+K:\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.dll
+K:\BankGUI\UnitTesting\bin\Debug\AccountBankManagement.pdb
+K:\BankGUI\UnitTesting\obj\Debug\ResolveAssemblyReference.cache
+K:\BankGUI\UnitTesting\obj\Debug\UnitTesting.exe
+K:\BankGUI\UnitTesting\obj\Debug\UnitTesting.pdb
+E:\BankGUI\BankGUI\UnitTesting\bin\Release\UnitTesting.exe
+E:\BankGUI\BankGUI\UnitTesting\bin\Release\UnitTesting.pdb
+E:\BankGUI\BankGUI\UnitTesting\bin\Release\AccountBankManagement.dll
+E:\BankGUI\BankGUI\UnitTesting\bin\Release\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\UnitTesting\obj\Release\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\UnitTesting\obj\Release\UnitTesting.exe
+E:\BankGUI\BankGUI\UnitTesting\obj\Release\UnitTesting.pdb

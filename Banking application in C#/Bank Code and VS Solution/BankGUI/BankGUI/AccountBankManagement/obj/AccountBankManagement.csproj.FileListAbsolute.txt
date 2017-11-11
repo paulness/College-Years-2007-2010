@@ -1,0 +1,45 @@
+C:\Users\Raw15\Desktop\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Raw15\Desktop\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+C:\Users\Raw15\Desktop\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+C:\Users\Raw15\Desktop\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+C:\Users\Raw15\Desktop\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+D:\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+D:\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+D:\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+D:\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+E:\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+E:\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+E:\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+E:\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+E:\BankGUI\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+E:\BankGUI\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+K:\BankGUI\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+K:\BankGUI\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+K:\BankGUI\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+K:\BankGUI\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+K:\BankGUI\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+D:\University\Modules\08120 - Programming 2\Labs & CW\BankGUI\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+K:\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.dll
+K:\BankGUI\AccountBankManagement\bin\Debug\AccountBankManagement.pdb
+K:\BankGUI\AccountBankManagement\obj\Debug\ResolveAssemblyReference.cache
+K:\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.dll
+K:\BankGUI\AccountBankManagement\obj\Debug\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\AccountBankManagement\bin\Release\AccountBankManagement.dll
+E:\BankGUI\BankGUI\AccountBankManagement\bin\Release\AccountBankManagement.pdb
+E:\BankGUI\BankGUI\AccountBankManagement\obj\Release\ResolveAssemblyReference.cache
+E:\BankGUI\BankGUI\AccountBankManagement\obj\Release\AccountBankManagement.dll
+E:\BankGUI\BankGUI\AccountBankManagement\obj\Release\AccountBankManagement.pdb

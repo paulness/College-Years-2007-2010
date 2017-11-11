@@ -1,0 +1,7 @@
+bin\Debug\UnitTesting.exe
+bin\Debug\UnitTesting.pdb
+bin\Debug\AccountBankManagement.dll
+bin\Debug\AccountBankManagement.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UnitTesting.exe
+obj\Debug\UnitTesting.pdb
